@@ -33,11 +33,21 @@ Using the addon includes 6 steps, distributed over 6 panels.
 
 </br>
 
+![](/content/howto/1.2.png)
+
+
+</br>
+
 ![](/content/1.3.png)
 </br>
 `Third, enter trackwidth value by meters, see image above & below.`
 
 </br>
+
+![](/content/howto/1.3.png)
+
+</br>
+
 
 ![](/content/1.4.png)
 </br>
