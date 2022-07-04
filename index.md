@@ -3,7 +3,7 @@
 
 Using the addon includes 6 steps, distributed over 6 panels.
 
-
+<br/>
 
 #### Curve Camber Alignment
 #### Rig Creation
@@ -11,9 +11,13 @@ Using the addon includes 6 steps, distributed over 6 panels.
 #### Suspension
 #### Binding Mesh to Rig
 #### Tire Rotation
+<br/>
 
+#### Curve Camber Alignment
 
 ![Camber Panel](/content/1.0.png)
+
+`Camber Panel`
 
 ------------------------------------------------------------------------------------------------------------------
 
