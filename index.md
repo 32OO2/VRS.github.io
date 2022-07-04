@@ -13,7 +13,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 #### Tire Rotation
 
 
-[Camber Panel](/content/1.0.png)
+![Camber Panel](/content/1.0.png)
 
 ------------------------------------------------------------------------------------------------------------------
 
