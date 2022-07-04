@@ -1,6 +1,16 @@
 ## Welcome to Blender-VRS Documentation
 
 
+Using the addon includes 6 steps, distributed over 6 panels.
+
+
+
+#### Curve Camber Alignment
+#### Rig Creation
+#### Curve Driver
+#### Suspension
+#### Binding Mesh to Rig
+#### Tire Rotation
 
 
 ------------------------------------------------------------------------------------------------------------------
