@@ -15,9 +15,46 @@ Using the addon includes 6 steps, distributed over 6 panels.
 
 #### Curve Camber Alignment
 
-![Camber Panel](/content/1.0.png)
-
+![](/content/1.0.png)
+</br>
 `Camber Panel`
+
+</br>
+
+![](/content/1.1.png)
+</br>
+`First, select an index that was not used before in the scene, ignore it for the first time.`
+
+</br>
+
+![](/content/1.2.png)
+</br>
+`Second, enter wheelbase value by meters, see image above & below.`
+
+</br>
+
+![](/content/1.3.png)
+</br>
+`Third, enter trackwidth value by meters, see image above & below.`
+
+</br>
+
+![](/content/1.4.png)
+</br>
+`Fourth, select the curve and road surface.`
+
+</br>
+
+![](/content/1.5.png)
+</br>
+`Fifth, make sure the above properties are set properly, then click “Apply Camber”.`
+
+</br>
+
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------
 
