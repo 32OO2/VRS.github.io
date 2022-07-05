@@ -254,51 +254,150 @@ Using the addon includes 6 steps, distributed over 6 panels.
 
 ### The most important property, “Index”
 
+The index is a numerical identifier used so that VRS can be used for multiple vehicles in the same scene. just check the index before you press any processing button, and the process will occur for the rig with that index.
+
+![](/content/index.png)
+
+--------------
+
 ### Detailed Suspension Properties
 
+![](/content/susp/7.0.png)
+</br>
+`Suspension Panel`
+
+![](/content/susp/7.1.png)
+</br>
+`Spring Stiffness: Spring rate, the higher the faster the spring oscillate lower values represents softer and slower spring, higher values represent stiffer and faster spring.`
+</br>
+<img src="/content/suspprops/SuspStiffness.gif" width="618">
+
+</br>
+</br>
 
 
+![](/content/susp/7.2.png)
+</br>
+`Suspension Damping: the higher the less oscillation the vehicle does before resting, should be set regarding spring stiffness (the higher the stiffness the higher the damping should be), higher values represent vehicles with less swinging (luxury vehicles), lower values represent vehicles with more swinging (essential for cartoonish look).`
+
+**Tip: for realistic visuals, set damping value so that the vehicle does not oscillate more than twice before resting.**
+</br>
+<img src="/content/suspprops/SuspDamping.gif" width="618">
+
+</br>
+</br>
 
 
+![](/content/susp/7.3.png)
+</br>
+`Suspension Travel: the length of the spring, the higher the longer the vertical distance the tires can encounter.`
+</br>
+<img src="/content/suspprops/SuspTravel.png" width="618">
+
+</br>
+</br>
 
 
+![](/content/susp/7.4.png)
+</br>
+`Spring Preload: the distance that the spring is compressed at full extension of the suspension. For a suspension Travel of 0.5m and Spring Preload of 0.1m, a 0.6m long spring is used and allowed to only expand 0.5m.`
+</br>
+<img src="/content/suspprops/SuspPreload.png" width="618">
+
+</br>
+</br>
 
 
-------------------------------------------------------------------------------------------------------------------
+![](/content/susp/7.5.png)
+</br>
+`Spring Min Height: the minimum length the spring can be compressed at.`
+</br>
+<img src="/content/suspprops/SuspMinH.png" width="618">
+
+</br>
+</br>
 
 
-You can use the [editor on GitHub](https://github.com/32OO2/VRS.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](/content/susp/7.6.png)
+</br>
+`Tire Stiffness: Tires in VRS is simulated as if it is a spring, therefore: is similar to how suspension spring stiffness works, but for the tire. Also, stiffer and higher values are used here, since smaller travel is allowed.`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</br>
 
-### Markdown
+![](/content/susp/7.7.png)
+</br>
+`Tire Damping: As above.`
+</br>
+**Tip: Use high values for Tire Damping since it naturally stabilizes the motion.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</br>
 
-```markdown
-Syntax highlighted code block
+![](/content/susp/7.8.png)
+</br>
+`Tire Rest Height: tire spring length, similar to Suspension travel, but for the tire.`
 
-# Header 1
-## Header 2
-### Header 3
+</br>
 
-- Bulleted
-- List
+![](/content/susp/7.9.png)
+</br>
+`Tire Min Height: the minimum length the tire spring can be compressed at. similar to Suspension Min Height, but for the tire.`
 
-1. Numbered
-2. List
+</br>
 
-**Bold** and _Italic_ and `Code` text
+![](/content/susp/7.10.png)
+</br>
+`Wheel Base Multiplier: this property allows to control the body lean to front and rear. The more it is the more body lean will occur.`
 
-[Link](url) and ![Image](src)
-```
+</br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![](/content/susp/7.11.png)
+</br>
+`Track Width Multiplier: this property allows to control the body lean from side to side. The more it is the more body lean will occur.`
+</br>
+**Note, if the simulation shows inappropriate results such as the car disappearing, then this means the car will experience rollover. decrease these above multipliers to fix the issue.**
 
-### Jekyll Themes
+</br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/32OO2/VRS.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](/content/susp/7.12.png)
+</br>
+`Vehicle mass: the mass, by Kg, the higher the softer the springs and dampers will act like.`
 
-### Support or Contact
+</br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](/content/susp/7.13.png)
+</br>
+`Center of mass Height: how high the centre of mass is from the ground, don’t use values higher than half the wheelbase or track width, or the vehicle may encounter rollover.`
+
+</br>
+
+![](/content/susp/7.14.png)
+</br>
+`Gravity: tweaking the gravity allows for fewer or more jumps. If your car is jumping too much, then use a stronger gravity value and vice versa. Note: always negative, positive values will slowly send the vehicle to the sky.`
+
+</br>
+
+![](/content/susp/7.15.png)
+</br>
+`Unsprung mass: mass of suspension parts for each tire. (Parts that are connecting the tire to the Coilover)`
+
+</br>
+
+![](/content/susp/7.16.png)
+</br>
+`Wheel Mass: Mass of each wheel including the tire.`
+
+</br>
+
+![](/content/susp/7.17.png)
+</br>
+`Error Clamper: higher values give less tolerance but can cause errors. Lower values can cause more tolerances and may trigger false error reports.`
+
+</br>
+
+### THE END
+#### that was a long list!
+#### Thanks For Reading!!!
+
+<a href="#welcome-to-blender-vrs-documentation">Go to Top</a>
+
+<a href="https://3200z.gumroad.com/l/xcCDiu">Get Blender-VRS</a>
