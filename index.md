@@ -47,7 +47,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Second, enter wheelbase value by meters, see image above & below.`
 
-<img src="/content/howto/1.2.png">
+<img src="/VRS.github.io/content/howto/1.2.png" width="314">
 
 <br/>
 <br/>
@@ -56,7 +56,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Third, enter trackwidth value by meters, see image above & below.`
 
-<img src="/content/howto/1.3.png" width="314">
+<img src="/VRS.github.io/content/howto/1.3.png" width="314">
 
 <br/>
 <br/>
@@ -102,8 +102,8 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `First, enter lateral and longitudinal acceleration values, the larger the faster.`
 
-<img src="/content/howto/3.12.gif" width="314">
-<img src="/content/howto/3.11.gif" width="314">
+<img src="/VRS.github.io/content/howto/3.12.gif" width="314">
+<img src="/VRS.github.io/content/howto/3.11.gif" width="314">
 
 <br/>
 <br/>
@@ -112,7 +112,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Second, enter slope effect ratio. Note: use values less than one if the road surface is steep, otherwise errors will show up.`
 
-<img src="/content/howto/3.20.gif" width="314">
+<img src="/VRS.github.io/content/howto/3.20.gif" width="314">
 
 <br/>
 <br/>
@@ -127,7 +127,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Fourth, enter drifting slip angle, zero disables drifting. Then, enter the value in which how many skipped frames between keyframes for drift control.`
 
-<img src="/content/howto/3.40.gif" width="314">
+<img src="/VRS.github.io/content/howto/3.40.gif" width="314">
 
 <br/>
 <br/>
