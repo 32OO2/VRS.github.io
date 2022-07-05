@@ -256,7 +256,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 
 The index is a numerical identifier used so that VRS can be used for multiple vehicles in the same scene. just check the index before you press any processing button, and the process will occur for the rig with that index.
 
-![](/content/index.png)
+![](/content/Index.png)
 
 --------------
 
