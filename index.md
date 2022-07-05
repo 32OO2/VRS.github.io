@@ -401,3 +401,5 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 <a href="#welcome-to-blender-vrs-documentation">Go to Top</a>
 
 <a href="https://3200z.gumroad.com/l/xcCDiu">Get Blender-VRS</a>
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
