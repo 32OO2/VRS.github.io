@@ -157,7 +157,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Second, presets are pre-set or preset, it's somewhat obvious, 5 modes are included depending on the final desired look.`
 
-<img src="/content/howto/3.40.gif" width="314">
+<img src="/VRS.github.io/howto/3.40.gif" width="314">
 
 <br/>
 <br/>
@@ -198,15 +198,15 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 <br/>
 
-<img src="/content/howto/5.1.png" width="628"><br/>`First, make sure your rear axle is sitting above the centre of the world, and the car front facing the positive x-axis.`
+<img src="/VRS.github.io/howto/5.1.png" width="628"><br/>`First, make sure your rear axle is sitting above the centre of the world, and the car front facing the positive x-axis.`
 
 <br/>
 
-<img src="/content/howto/5.20.png" width="628"><br/>`Second, follow the following diagram on how you are required to parent the tires and brakes to the car base (Arrows point towards parent).`
+<img src="/VRS.github.io/howto/5.20.png" width="628"><br/>`Second, follow the following diagram on how you are required to parent the tires and brakes to the car base (Arrows point towards parent).`
 
 <br/>
 
-<img src="/content/howto/5.21.png" width="628"><br/>`Note: for complex models that have more than one object such as separated wheel and tire, etc. parent all these objects to the tire and select the tire in the add-on UI. As shown above.`
+<img src="/VRS.github.io/howto/5.21.png" width="628"><br/>`Note: for complex models that have more than one object such as separated wheel and tire, etc. parent all these objects to the tire and select the tire in the add-on UI. As shown above.`
 
 <br/>
 <br/>
@@ -215,7 +215,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Third, choose the tires, the car base, and the brake object.`
 
-<img src="/content/howto/5.22.gif" width="628">
+<img src="/VRS.github.io/howto/5.22.gif" width="628">
 
 <br/>
 <br/>
@@ -245,7 +245,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 
 ![](/content/6N.1.png)
 
-<img src="/content/howto/6.1.png" width="314">
+<img src="/VRS.github.io/howto/6.1.png" width="314">
 
 <br/>
 
@@ -270,7 +270,7 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 <br/>
 `Spring Stiffness: Spring rate, the higher the faster the spring oscillate lower values represents softer and slower spring, higher values represent stiffer and faster spring.`
 <br/>
-<img src="/content/suspprops/SuspStiffness.gif" width="618">
+<img src="/VRS.github.io/suspprops/SuspStiffness.gif" width="618">
 
 <br/>
 <br/>
@@ -282,7 +282,7 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 
 **Tip: for realistic visuals, set damping value so that the vehicle does not oscillate more than twice before resting.**
 <br/>
-<img src="/content/suspprops/SuspDamping.gif" width="618">
+<img src="/VRS.github.io/suspprops/SuspDamping.gif" width="618">
 
 <br/>
 <br/>
@@ -292,7 +292,7 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 <br/>
 `Suspension Travel: the length of the spring, the higher the longer the vertical distance the tires can encounter.`
 <br/>
-<img src="/content/suspprops/SuspTravel.png" width="618">
+<img src="/VRS.github.io/suspprops/SuspTravel.png" width="618">
 
 <br/>
 <br/>
@@ -302,7 +302,7 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 <br/>
 `Spring Preload: the distance that the spring is compressed at full extension of the suspension. For a suspension Travel of 0.5m and Spring Preload of 0.1m, a 0.6m long spring is used and allowed to only expand 0.5m.`
 <br/>
-<img src="/content/suspprops/SuspPreload.png" width="618">
+<img src="/VRS.github.io/suspprops/SuspPreload.png" width="618">
 
 <br/>
 <br/>
@@ -312,7 +312,7 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 <br/>
 `Spring Min Height: the minimum length the spring can be compressed at.`
 <br/>
-<img src="/content/suspprops/SuspMinH.png" width="618">
+<img src="/VRS.github.io/suspprops/SuspMinH.png" width="618">
 
 <br/>
 <br/>
