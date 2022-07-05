@@ -3,6 +3,8 @@
 
 Using the addon includes 6 steps, distributed over 6 panels.
 
+<a href="#Curve-Camber-AAlignment">Curve Camber Alignment</a>
+
 <br/>
 
 #### Curve Camber Alignment
@@ -11,9 +13,12 @@ Using the addon includes 6 steps, distributed over 6 panels.
 #### Suspension
 #### Binding Mesh to Rig
 #### Tire Rotation
+
+<br/>
 <br/>
 
 #### Curve Camber Alignment
+
 
 ![](/content/1.0.png)
 </br>
@@ -31,23 +36,19 @@ Using the addon includes 6 steps, distributed over 6 panels.
 </br>
 `Second, enter wheelbase value by meters, see image above & below.`
 
+<img src="/content/howto/1.2.png" width="314">
+
 </br>
-
-![](/content/howto/1.2.png)
-
-
 </br>
 
 ![](/content/1.3.png)
 </br>
 `Third, enter trackwidth value by meters, see image above & below.`
 
-</br>
-
-![](/content/howto/1.3.png)
+<img src="/content/howto/1.3.png" width="314">
 
 </br>
-
+</br>
 
 ![](/content/1.4.png)
 </br>
@@ -60,8 +61,14 @@ Using the addon includes 6 steps, distributed over 6 panels.
 `Fifth, make sure the above properties are set properly, then click “Apply Camber”.`
 
 </br>
+</br>
+
+#### Rig Creation
 
 
+![](/content/1.0.png)
+</br>
+`Rig Panel`
 
 
 
