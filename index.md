@@ -47,7 +47,7 @@ Using the addon includes 6 steps, distributed over 6 panels.
 <br/>
 `Second, enter wheelbase value by meters, see image above & below.`
 
-<img src="/content/howto/1.2.png" width="314">
+<img src="/content/howto/1.2.png">
 
 <br/>
 <br/>
@@ -402,4 +402,4 @@ The index is a numerical identifier used so that VRS can be used for multiple ve
 
 <a href="https://3200z.gumroad.com/l/xcCDiu">Get Blender-VRS</a>
 
-
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
